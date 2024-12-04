@@ -1,0 +1,18 @@
+.fee{display: flex; justify-content: space-between; align-items: center;}
+.fee a{color: white;}
+.car a {text-decoration: none; color: white;}
+.head{height: 30vh;}
+.bor{border: 10px solid yellow;}
+.mar{margin-top: -25px;}
+.exp a {text-decoration:none ;color: black;}
+.help a{text-decoration: none; color: black;}
+.img a{text-decoration: none;}
+.img{background-image:url(back.png) ;background-repeat: no-repeat; width: 100%;background-size: cover;}
+#hero4{background-color: #00224F;height: 25vh;}
+.bet{background-color: #003B95;}
+#button{background-color:#003B95 ;}
+.list a {text-decoration: none; color: white; border: 1px solid white;border-radius: 10px;}
+#hero5{background-color:#003B95 ; border-bottom: 1px solid white;}
+#hero6{background-color:#003B95 ;}     
+.links a {color: white;}
+.dfelx{display: flex; justify-content: space-around; align-items: center;}
